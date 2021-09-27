@@ -1,5 +1,5 @@
 # ethdomains
-Simple python script that tracks which 3-char .eth ENS domains are up for grabs. Can be modified to bulk-check availability of any list of domains
+Python script that tracks which 3-char .eth ENS domains are up for grabs. Can be modified to bulk-check availability of any list of domains
 Includes: Jupyter notebook, PDF print-out of code & Excel output with list of available domains & analysis
 
 As of Sept 2021: 
